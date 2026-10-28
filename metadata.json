@@ -1,0 +1,6 @@
+{
+  "name": "EasyExpenso – Personal Finance & Invoice Tracker",
+  "description": "A clean, modern, and beginner-friendly personal finance and invoice tracking landing page designed for an Entrepreneurship Project (EP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
